@@ -1,0 +1,16 @@
+{
+  "pose.minecraft.athena": "Athena",
+  "pose.minecraft.brandish": "Brandish",
+  "pose.minecraft.can_can_a": "Can Can A",
+  "pose.minecraft.can_can_b": "Can Can B",
+  "pose.minecraft.default": "Default",
+  "pose.minecraft.entertain": "Entertain",
+  "pose.minecraft.hero": "Hero",
+  "pose.minecraft.honor": "Honor",
+  "pose.minecraft.none": "None",
+  "pose.minecraft.riposte": "Riposte",
+  "pose.minecraft.salute": "Salute",
+  "pose.minecraft.solemn": "Solemn",
+  "pose.minecraft.zombie": "Zombie",
+  "entity.minecraft.armor_stand.pose": "Changed Pose: %s"
+}
